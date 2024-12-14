@@ -1,4 +1,4 @@
-# Attendance System Using Facial Recognition and Fingerprint Authentication
+# Real-Time Image Processing Camera System
 
 
 ## Hardware Overview
